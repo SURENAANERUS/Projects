@@ -1,3 +1,3 @@
-https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_1_multitask_counting_student.ipynb COLLAB LINK
+https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2025-26/blob/master/docs/hw_2_gradcam_and_sam_student.ipynb COLLAB LINK
 
-Approximated runtime: 7-8 minutes per model, at most 25 minutes using T4 from google.
+apprix time: around 10-15 minutes for all metrics on a T4
